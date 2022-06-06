@@ -1,5 +1,5 @@
 - 👋 Hi, I’m parv
-- 👀 I’m interested in app devlopment, AI and machine learning
+- 👀 I’m interested in AI, ML and app devlopment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to contribute in various open source projects
 - 📫 You can reach me at : vyasparv009@gmail.com
