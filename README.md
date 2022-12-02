@@ -1,4 +1,4 @@
-- 👋 Hi, I’m parv
+- Hi, I’m parv
 - I’m currently learning python, html, css, js and system verilog
 - I’m looking to contribute in various open source projects
 
