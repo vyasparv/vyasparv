@@ -1,24 +1,5 @@
 - Hi, I’m Parv!
 - Electronics and Communication engineering Undergraduate
-- Intrested in Open source contributions
-
-  Languages and tools
-  
-R Programming
-
-Python
-
-C++
-
-JavaScript
-
-Node.js
-
-HTML5
-
-Git
-
-GitHub
 
 
 <!---
