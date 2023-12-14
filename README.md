@@ -1,7 +1,8 @@
 # Hi, I'm Parv! 
 
+**`mail : parvv09@gmail.com `**
+
 - Electronics and Communication engineering Undergraduate
-- mail : parvv09@gmail.com 
 
 # 🧰 Languages and Tools
 
