@@ -2,7 +2,7 @@
 
 **`mail : parvv09@gmail.com `**
 
-- Electronics and Communication engineering Undergraduate
+- Electronics and Communication Engineering Undergraduate
 
 # 🧰 Languages and Tools
 
