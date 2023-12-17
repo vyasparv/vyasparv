@@ -3,6 +3,7 @@
 **`mail : parvv09@gmail.com `**
 
 - Electronics and Communication Engineering Undergraduate
+- I've worked with Embedded Systems, AR/VR development, Rendering, Image Processing, Machine Learning and Bioinformatics.
 
 # 🧰 Languages and Tools
 
