@@ -5,6 +5,11 @@
 - Electronics and Communication Engineering Undergraduate
 - I've worked with Machine Learning, Embedded Systems, AR/VR development, Rendering, Web development, Image Processing, UI/UX design and Bioinformatics.
 
+# Find me on 
+- LeetCode : https://leetcode.com/Parv_/
+- Kaggle : https://www.kaggle.com/parv09
+- Rosalind : https://rosalind.info/users/vyasparv/
+
 # 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
