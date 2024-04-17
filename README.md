@@ -3,9 +3,9 @@
 **`mail : parvv09@gmail.com `**
 
 - Electronics and Communication Engineering Undergraduate
-- I've worked with Machine Learning, Embedded Systems, AR/VR development, Rendering, Web development, Image Processing, Monte Carlo Simulations, UI/UX design and Bioinformatics.
+- My areas of interest are Machine Learning, Embedded Systems, AR/VR development, Rendering, Web development, Image Processing, Monte Carlo Simulations, UI/UX design and Bioinformatics.
 
-# Languages and Tools 🧰 
+### Languages and Tools 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -21,11 +21,13 @@
 
 #
 
-### 📊 Stats
+### Stats
 
 <a href="https://github.com/vyasparv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyasparv&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-# Find me on 
+#
+
+### Find me on 
 - Kaggle : https://www.kaggle.com/parv09
 - Pennylane : https://pennylane.ai/profile/vyasparv
 - LeetCode : https://leetcode.com/Parv_/
