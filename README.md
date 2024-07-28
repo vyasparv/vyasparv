@@ -3,7 +3,7 @@
 **`mail : parvv09@gmail.com `**
 
 - Electronics and Communication Engineering Undergraduate
-- My areas of interest are Machine Learning, Embedded Systems, AR/VR development, Rendering, Web development, Image Processing, Monte Carlo Simulations, UI/UX design and Bioinformatics.
+- My areas of interest are Machine Learning, Embedded Systems, and Robotics. I'm also exploring AR/VR development, Rendering, Web development, Image Processing, Monte Carlo Simulations, UI/UX design and Bioinformatics.
 
 ### Languages and Tools 
 
