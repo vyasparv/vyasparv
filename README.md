@@ -5,19 +5,22 @@
 - Electronics and Communication Engineering Undergraduate
 - My areas of interest are Machine Learning, Embedded Systems, and Robotics. 
 
-### Languages and Tools 
+## Skills
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=flask,docker)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,vscode,figma,)
 
 #
 
