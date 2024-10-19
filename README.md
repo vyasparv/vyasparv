@@ -8,19 +8,10 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,python)
+![Languages](https://skillicons.dev/icons?i=python,cpp,c)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react)
-
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=flask,docker)](https://skillicons.dev)
-
-#### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vscode,figma,)
+#### Other Tools & Technologies
+![Others](https://skillicons.dev/icons?i=arduino,git,github,vscode,figma,mysql,flask,docker,html,css,react)
 
 #
 
