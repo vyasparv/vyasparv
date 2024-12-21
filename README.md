@@ -3,7 +3,7 @@
 **`mail : parvv09@gmail.com `**
 
 - Electronics and Communication Engineering Undergraduate
-- My areas of interest are Machine Learning, Embedded Systems, and Robotics. 
+- My areas of interest are Machine Learning, VLSI, and Robotics. 
 
 ## Skills
 
